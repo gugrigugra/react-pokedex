@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Download the source code of this project.
 You have to download node.js and npm, so go to the [node site](https://nodejs.org/en/download/current) and do it.
+
 If you already have it, in the project directory, you can run:
 
 ### `npm start`
